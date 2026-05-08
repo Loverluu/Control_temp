@@ -1,8 +1,8 @@
-    # Control_temp
+# Control_temp
 
-Programa en Python para controlar temperatura.
-    ## Qué hace
+Programa para controlar temperatura de equipos industriales.
 
+ ## Qué hace
 - Lee temperatura
 - Detecta temperatura alta
 - Muestra alarma
@@ -18,6 +18,6 @@ Programa en Python para controlar temperatura.
 
 python main.py
 
-    ## Tests
-
+ ## Tests
+ 
 pytest
