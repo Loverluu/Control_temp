@@ -3,7 +3,6 @@
 Programa para controlar temperatura de equipos industriales.
 
  ## Qué hace
-
 - Lee temperatura
 - Detecta temperatura alta
 - Muestra alarma
@@ -20,5 +19,5 @@ Programa para controlar temperatura de equipos industriales.
 python main.py
 
  ## Tests
-
+ 
 pytest
