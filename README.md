@@ -1,7 +1,8 @@
 # Control_temp
 
-Programa para controlar temperatura industrial.
-## Qué hace
+Programa para controlar temperatura de equipos industriales.
+
+ ## Qué hace
 
 - Lee temperatura
 - Detecta temperatura alta
